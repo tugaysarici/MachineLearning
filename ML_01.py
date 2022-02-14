@@ -15,7 +15,7 @@ import matplotlib.pyplot as plt
 # matplotlib.pyplot --> çizim amacıyla
 
 #YA DA veriler = pd.read_csv("veriler.csv")
-veriler = pd.read_csv('C:\\Users\\TSRC\\Desktop\\ML\\veriler.csv')
+veriler = pd.read_csv('veriler.csv')
 
 print(veriler)
 
