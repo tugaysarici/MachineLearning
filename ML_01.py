@@ -4,7 +4,7 @@ Bu kodda:
     -verilerin nasıl import edildiğine
     -sınıf yapısına
     -liste yapısına 
-    değildi.
+    değinildi.
 @author: "Tugay SARICI"
 """
 import pandas as pd
